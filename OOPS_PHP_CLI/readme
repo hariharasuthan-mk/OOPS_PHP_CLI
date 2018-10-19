@@ -1,0 +1,17 @@
+
+PDO based cli
+
+Run 
+php install_db.php
+
+
+And then give the following inputs
+
+Host Name
+Database Username
+Database Password
+Database Name
+
+After giving all valid details, our script will create data-config.ini file under inc folder
+
+
